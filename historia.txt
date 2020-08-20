@@ -5,3 +5,5 @@ y asi de alguna forma demostrar sus capacidades
 Jared 2.0 es una versión del jared que comprobará
 si ya sabe cofigurar un entorno de github con múltiples 
 colaboradores
+
+Volviendo a intentar :v
