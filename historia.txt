@@ -6,13 +6,9 @@ Empezaremos con la prueba del REBASE
 
 A Cambio en rama1
 
-<<<<<<< HEAD
 Añadido en master
 
-B
-=======
 B Camcio en rama1
->>>>>>> 21456a9... c2 r
 
 C
 
