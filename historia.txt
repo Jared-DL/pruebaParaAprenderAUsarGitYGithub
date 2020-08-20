@@ -6,6 +6,8 @@ Empezaremos con la prueba del REBASE
 
 A
 
+Añadido en master
+
 B
 
 C
